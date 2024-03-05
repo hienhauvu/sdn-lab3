@@ -1,0 +1,42 @@
+/* Detail.css */
+
+.container {
+    padding-top: 20px;
+  }
+  
+  .text-left {
+    text-align: left;
+  }
+  
+  .carousel-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .mini-image {
+    cursor: pointer;
+  }
+  
+  .comments-section {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .comment-row {
+    margin-bottom: 15px;
+  }
+  
+  .comment-author {
+    font-weight: bold;
+  }
+  
+  .comment-content {
+    margin-top: 5px;
+  }
+  
+  .form-row {
+    margin-top: 20px;
+  }
+  
